@@ -282,7 +282,7 @@ Follow the steps below to run SkillTrack locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Jawad-Asghar2412/skilltrack
 cd skilltrack
 ```
 
