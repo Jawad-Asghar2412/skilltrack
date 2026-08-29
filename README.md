@@ -348,8 +348,8 @@ Vite will provide the local development URL in the terminal.
 For testing purposes, the application includes a demo account:
 
 ```text
-Email: jawad@gmail.com
-Password: jawad@123
+Email: student@uog.edu.pk
+Password: 12345
 ```
 
 > **Note:** The authentication system in this project is intended for demonstration and learning purposes and should not be considered production-grade authentication.
